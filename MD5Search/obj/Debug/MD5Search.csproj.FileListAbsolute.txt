@@ -1,0 +1,10 @@
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\bin\Debug\MD5Search.exe.config
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\bin\Debug\MD5Search.exe
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\bin\Debug\MD5Search.pdb
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\obj\Debug\MD5Search.csprojAssemblyReference.cache
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\obj\Debug\MD5Search.csproj.CoreCompileInputs.cache
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\obj\Debug\MD5Search.exe
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\obj\Debug\MD5Search.pdb
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\bin\Debug\hash.txt
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\bin\Debug\users.txt
+C:\Users\evgeny\source\repos\MD5Search\MD5Search\bin\Debug\users2.txt
